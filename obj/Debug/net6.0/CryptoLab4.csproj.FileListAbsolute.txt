@@ -1,0 +1,15 @@
+E:\dotNet\CriptoLab4\CryptoLab4\bin\Debug\net6.0\CryptoLab4.exe
+E:\dotNet\CriptoLab4\CryptoLab4\bin\Debug\net6.0\CryptoLab4.deps.json
+E:\dotNet\CriptoLab4\CryptoLab4\bin\Debug\net6.0\CryptoLab4.runtimeconfig.json
+E:\dotNet\CriptoLab4\CryptoLab4\bin\Debug\net6.0\CryptoLab4.dll
+E:\dotNet\CriptoLab4\CryptoLab4\bin\Debug\net6.0\CryptoLab4.pdb
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.csproj.AssemblyReference.cache
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.AssemblyInfoInputs.cache
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.AssemblyInfo.cs
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.csproj.CoreCompileInputs.cache
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.dll
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\refint\CryptoLab4.dll
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.pdb
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\CryptoLab4.genruntimeconfig.cache
+E:\dotNet\CriptoLab4\CryptoLab4\obj\Debug\net6.0\ref\CryptoLab4.dll
