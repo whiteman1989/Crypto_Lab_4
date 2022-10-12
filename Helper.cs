@@ -26,4 +26,11 @@ public static class Helper
 
 		return builder.ToString();
 	}
+	
+	public static string NormalizeText(string text)
+	{
+		text = text.Trim();
+		text = text.Replace(" ", "_");
+		return text;
+	}
 }
